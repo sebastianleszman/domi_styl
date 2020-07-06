@@ -517,6 +517,7 @@ footer {
   height: 100vh;
   margin: auto;
   -webkit-overflow-scrolling: touch;
+  overflow: scroll;
 }
 
 /* Gallery */
